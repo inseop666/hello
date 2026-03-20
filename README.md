@@ -1,3 +1,4 @@
 # hello
 과제
-https://notebooklm.google.com/notebook/b2d59a0a-c709-4a1d-9cba-788acda65eb8
+
+<img width="2752" height="1536" alt="unnamed" src="https://github.com/user-attachments/assets/720fd72f-f4ff-4753-94cc-0489bca4ad01" />
